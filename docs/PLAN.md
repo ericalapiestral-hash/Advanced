@@ -114,7 +114,7 @@
 
 ### 1단계 (1~2주): 준비
 - [x] Unity Hub, Unity 6.3 LTS, Visual Studio 설치
-- [ ] Unity Learn: *Unity Essentials*. 에디터 조작 부분 위주로 하고, 프로그래밍 부분은 가볍게 본다
+- [ ] Unity Learn: *Unity Essentials* (Hub의 `Essentials Pathway` 템플릿). Editor → 3D → Programming(가볍게) 미션까지. 2D와 Publishing은 건너뛴다
 - [ ] GitHub Desktop과 Git LFS 설치, 이 저장소를 PC에 클론 (경로는 `D:\Dev\Advanced`처럼 **영어로만**. 한글이나 공백이 들어간 경로는 일부 도구에서 문제를 일으킨다)
 - [ ] 이 저장소 안에 Unity 프로젝트 생성 (위치: 저장소 폴더, 이름: `Game`, 템플릿: Universal 3D) → 커밋, 푸시
 - **완료 기준**: 에디터에서 오브젝트를 배치하고, 스크립트를 붙이고, Inspector에서 값을 바꾸고, Play로 테스트할 수 있다. `Game` 프로젝트가 GitHub에 올라가 있다
