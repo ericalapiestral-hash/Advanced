@@ -89,7 +89,7 @@
 이 기준을 통과해야 다음 달로 넘어가요. 일정이 밀리면 기능 목록의 "선택" → "권장" 순서로 빼요.
 
 ### 1개월차 (1~4주): 기초 다지기
-- [ ] Unity Hub, Unity 6.3 LTS, Visual Studio 설치
+- [x] Unity Hub, Unity 6.3 LTS, Visual Studio 설치
 - [ ] C# 기초: 변수, 조건문, 반복문, 함수, 클래스, 리스트
 - [ ] Unity Learn: *Unity Essentials* → *Junior Programmer* 앞부분
 - [ ] 연습 프로젝트 1개: 공을 굴려 아이템을 먹는 게임 (Roll-a-Ball). **이 저장소 밖에 따로** 만든다
