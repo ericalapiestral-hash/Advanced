@@ -67,7 +67,7 @@
 
 | 분야 | 사용할 것 | 비고 |
 |---|---|---|
-| 엔진 | **Unity 6 LTS** | Unity Hub에서 "LTS" 표시가 붙은 최신 버전 |
+| 엔진 | **Unity 6.3 LTS** (6000.3.x) | 프로젝트 도중에 6.4 같은 다른 버전으로 올리지 않는다. 6000.3.x 안의 패치 업데이트는 괜찮다 |
 | 렌더 파이프라인 | **URP** | 프로젝트 템플릿: `Universal 3D` |
 | 코드 에디터 | Visual Studio Community | Unity Hub에서 함께 설치 |
 | 입력 | Input System | 키보드/마우스 + 게임패드 |
@@ -89,7 +89,7 @@
 이 기준을 통과해야 다음 달로 넘어가요. 일정이 밀리면 기능 목록의 "선택" → "권장" 순서로 빼요.
 
 ### 1개월차 (1~4주): 기초 다지기
-- [ ] Unity Hub, Unity 6 LTS, Visual Studio 설치
+- [ ] Unity Hub, Unity 6.3 LTS, Visual Studio 설치
 - [ ] C# 기초: 변수, 조건문, 반복문, 함수, 클래스, 리스트
 - [ ] Unity Learn: *Unity Essentials* → *Junior Programmer* 앞부분
 - [ ] 연습 프로젝트 1개: 공을 굴려 아이템을 먹는 게임 (Roll-a-Ball). **이 저장소 밖에 따로** 만든다
