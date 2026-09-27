@@ -1,0 +1,56 @@
+# ===== Unity (프로젝트 폴더: Game/) =====
+/Game/[Ll]ibrary/
+/Game/[Tt]emp/
+/Game/[Oo]bj/
+/Game/[Bb]uild/
+/Game/[Bb]uilds/
+/Game/[Ll]ogs/
+/Game/[Uu]ser[Ss]ettings/
+/Game/[Mm]emoryCaptures/
+/Game/[Rr]ecordings/
+/Game/[Aa]ssets/Plugins/Editor/JetBrains*
+/Game/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/Game/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/Game/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# 저장소 루트에 둔 빌드 결과물
+/[Bb]uild/
+/[Bb]uilds/
+
+# ===== IDE / 자동 생성 파일 =====
+.vs/
+.vscode/
+.idea/
+.gradle/
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+crashlytics-build.properties
+
+# ===== 패키지 / 빌드 파일 =====
+*.apk
+*.aab
+*.app
+*.unitypackage
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+desktop.ini
