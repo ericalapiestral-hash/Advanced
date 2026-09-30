@@ -15,12 +15,15 @@
 *.exr filter=lfs diff=lfs merge=lfs -text
 *.hdr filter=lfs diff=lfs merge=lfs -text
 
-# 3D 모델 / 캐릭터
+# 도트 원본 파일 (Aseprite, Pixelorama)
+*.aseprite filter=lfs diff=lfs merge=lfs -text
+*.ase filter=lfs diff=lfs merge=lfs -text
+*.pxo filter=lfs diff=lfs merge=lfs -text
+
+# 3D 모델 (에셋 팩에 섞여 들어올 때 대비)
 *.fbx filter=lfs diff=lfs merge=lfs -text
 *.obj filter=lfs diff=lfs merge=lfs -text
 *.blend filter=lfs diff=lfs merge=lfs -text
-*.vrm filter=lfs diff=lfs merge=lfs -text
-*.vroid filter=lfs diff=lfs merge=lfs -text
 
 # 오디오
 *.wav filter=lfs diff=lfs merge=lfs -text

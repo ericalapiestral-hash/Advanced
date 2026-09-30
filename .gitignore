@@ -17,6 +17,16 @@
 /[Bb]uild/
 /[Bb]uilds/
 
+# ===== 개인 자료 (절대 커밋하지 않음) =====
+# 추억 원본 사진 등. 도트로 변환한 최종본만 Game/Assets/_Project/ 안에 넣는다
+/private/
+
+# ===== tools/ (밸런스 시뮬레이터, 헤드리스 테스트) =====
+/tools/**/bin/
+/tools/**/obj/
+__pycache__/
+.venv/
+
 # ===== IDE / 자동 생성 파일 =====
 .vs/
 .vscode/
@@ -27,6 +37,8 @@ ExportedObj/
 *.csproj
 *.unityproj
 *.sln
+# tools/의 테스트 프로젝트는 Unity가 만든 파일이 아니므로 커밋한다
+!/tools/**/*.csproj
 *.suo
 *.tmp
 *.user
